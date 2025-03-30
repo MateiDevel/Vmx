@@ -5,4 +5,5 @@
 **Clicking CTRL will allow to click the app and change the volume.**
 # Plans
 - Changing the audio device will not sync with the app. Planing to add this .
-  
+# Instalation
+- Just simply go to the itch.io page and dowload from there : https://mateideveloper.itch.io/vmxvolumemxr
