@@ -9,6 +9,7 @@
 To stop the application from auto-starting when windows boots:
       -Press Win + R, and the run window will popup, then type regedit:
       ![run](assets/run.png)
+      
       -Then go to : 
       HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
       And delete the VMX entry:
